@@ -1,0 +1,7 @@
+{
+    "name": "wails-sveltekit-template",
+    "shortname": "wails-sveltekit-template",
+    "author": "aiden/swhoro",
+    "description": "sveltekit template for wails",
+    "helpurl": "https://github.com/swhoro/wails-sveltekit-template"
+}
