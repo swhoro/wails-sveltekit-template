@@ -1,7 +1,7 @@
 <script lang="ts">
     import "../app.css";
     import logo from "@assets/images/logo-universal.png";
-    import { Greet } from "@wailsjsMain/App.js";
+    import { Greet } from "@wmain/App.js";
 
     let resultText: string = "Please enter your name below 👇";
     let name: string;

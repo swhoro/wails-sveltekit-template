@@ -17,7 +17,8 @@ const config = {
         }),
         alias:{
             "@assets":"src/assets",
-            "@wailsjsMain":"wailsjs/go/main"
+            "@wruntime":"wailsjs/runtime/runtime.js",
+            "@wmain":"wailsjs/go/main"
         }
 	}
 };
